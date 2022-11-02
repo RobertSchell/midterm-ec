@@ -1,6 +1,6 @@
 function twoSmallest(array){
 if(array.length < 2){
-  return "undefined";
+  return undefined;
 }
 
 let smallest = array[0];
